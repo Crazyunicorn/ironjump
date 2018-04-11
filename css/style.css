@@ -42,7 +42,10 @@ canvas {
   margin-bottom: 100px;
 }
 
-
+body{
+    background-image:url(image/yolo.png);
+    background-size: cover;
+}
 
 /* Media Queries are rules that are applied in specific conditions */
 /* Rules when the screen has specific ratio (adapted for mobile phone) */
